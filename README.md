@@ -1,5 +1,5 @@
 # Stat-628-Module 2-Yelp Ratings Prediction
-Shiwei Cao, Jiyun Chen, Jing Guo
+Team members: Shiwei Cao, Jiyun Chen, Jing Guo
 
 ## Discription
 This is a project for UW-STAT628, predicting Yelp ratings based on 1.5 million train data. We use a L2-regularized logistic classfier which spends less than 3 minutes on training a model and yields a RMSE 0.63.
@@ -23,6 +23,7 @@ Here is code we use for data cleaning and image generating.
 ## Presentation
  Here is our two powerpoints used for presentation.
 
-## Yelp!!.ipynb/pdf: summary of our whole project
+## Yelp!!.ipynb/pdf
+summary of our whole project
 
  
