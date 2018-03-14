@@ -23,7 +23,7 @@ Here is code we use for data cleaning and image generating.
 ## Presentation
  Here is our two powerpoints used for presentation.
 
-## Yelp!!.ipynb/pdf
+## Yelp_Wed_1.ipynb/pdf
 summary of our whole project
 
  
