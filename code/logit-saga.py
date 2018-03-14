@@ -58,6 +58,8 @@ times2 = dt.datetime.now()
 print('Time spent on training model: '+ str(times2-times1))
 y_log=p_log.predict_proba(test)
 pre = [sum(np.array([1,2,3,4,5])*i) for i in y_log]
+#coef positive 5-star, 1-5, delicious 11.86; amazing 11.27; great9.57; excellent 9.3; awesome 8.92
+#coef positive 1-star, 1-5, worst 10.88; poisoning 9.16; horrible 9.04; horrible 9.04; terrible 8.89
 
 tt = pd.DataFrame(columns=['Id','Prediction1'])
 tt['Id'] = range(1,len(pre)+1)
