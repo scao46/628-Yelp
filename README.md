@@ -25,7 +25,7 @@ Here is a link to the raw data and our cleaned data.
  * wordcloud_packages_neg.png & wordcloud_packages_pos.png: word importance with largest negative/positive coefficients
 
 ## slides
-Here is our two powerpoints used for presentation.
+Two slides used for presentation.
 
 ## Yelp_Wed_1.ipynb/pdf
 Summary of our whole project.
