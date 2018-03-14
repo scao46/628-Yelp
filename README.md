@@ -6,10 +6,10 @@ This is a project of STAT628, predicting Yelp ratings based on 1.5 million train
 
 ## code
 Code for data cleaning and image generating.
- * data_clean_punc.py & data_clean_text.py: data cleanin
+ * data_clean_punc.py & data_clean_text.py: data cleaning
  * logit-saga.py: model fitting
  * word cloud plot.R: generating word cloud for categories
- * data_clean_example.py & print_picture.py: jupyter writing
+ * data_clean_example.py & print_picture.py: examples
  * word2vec.py: convert words to vectors
  * process_fasttext_result.py: process result of fastText
 
